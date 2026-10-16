@@ -19,6 +19,11 @@ A sample guide showing a structured approach to investigating login issues, docu
 
 [View Troubleshooting Guide](./troubleshooting-guide.md)
 
+### 3. Customer Issue Tracker
+A sample tracking log demonstrating issue prioritization, ticket status management, escalation, follow-up, and accurate record keeping.
+
+[View Customer Issue Tracker](./customer-issue-tracker.md)
+
 ## Key Skills Demonstrated
 - Written customer communication
 - Problem-solving and troubleshooting
